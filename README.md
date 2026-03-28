@@ -111,4 +111,4 @@ Data Cleaning · Time Intelligence · What-If Parameters
 4. Use the navigation bar to move between pages
 5. Hold Ctrl and click any visual to cross-filter
 
-▶ [Watch the 3-minute walkthrough](YOUR_LOOM_LINK_HERE)
+▶ [Watch the 5-minute walkthrough](https://www.loom.com/share/3ff31d4812bc4af89e8d94b17af5aaf6)
